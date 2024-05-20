@@ -1,4 +1,3 @@
-// src/components/FoodBox.js
 import React, { useState } from 'react';
 
 const FoodBox = ({ id, img, name, cal, handleAdd }) => {
